@@ -1,0 +1,14 @@
+{
+  "name": "api-rest-restful",
+  "version": "1.0.0",
+  "description": "Estudo do sobre api, rest e restful com mikeBrito da rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "_edilson14",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
